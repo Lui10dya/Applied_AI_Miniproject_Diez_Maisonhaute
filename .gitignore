@@ -2,3 +2,5 @@
 *.jpg
 /faceEmotion_dataset_v2*
 /faceEmotion_dataset_v3*
+*.jpeg
+*.png
